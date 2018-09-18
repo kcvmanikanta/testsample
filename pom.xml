@@ -86,7 +86,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>edu.stanford.nlp.pipeline.StanfordCoreNLPServer</mainClass>
+                                    <mainClass>org.openshift.quickstarts.undertow.servlet.test</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
